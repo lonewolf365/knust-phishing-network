@@ -1,0 +1,11 @@
+R version: R version 4.5.3 (2026-03-11 ucrt)
+Run mode: demo
+  OK  qgraph                 1.10.1
+  OK  bootnet                1.9.1
+  OK  networktools           1.6.0
+  OK  NetworkComparisonTest  2.2.4
+  OK  mgm                    1.2.15
+  OK  psych                  2.6.9
+  OK  MASS                   7.3.65
+  OK  testthat               3.3.2
+RAM: 14.9 GB

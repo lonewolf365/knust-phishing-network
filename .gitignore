@@ -1,0 +1,24 @@
+# Private: never pushed
+00_admin/*
+!00_admin/.gitkeep
+03_data/raw/*
+!03_data/raw/.gitkeep
+03_data/clean/*
+!03_data/clean/.gitkeep
+03_data/rehearsal/*
+!03_data/rehearsal/.gitkeep
+**/consent*
+**/*pilot_answers*
+**/*expert_ratings*
+.Renviron
+.env
+*.key
+# Demo outputs (rehearsal) never go to GitHub
+05_results/**/REHEARSAL_*
+# R and system files
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+.DS_Store

@@ -1,0 +1,75 @@
+item,block,community,scale_min,scale_max,reverse,source,key_status,public_name
+consent1,consent,,0,1,FALSE,Appendix Q1 consent box,fixed,
+consent2,consent,,0,1,FALSE,Appendix Q1 consent box,fixed,
+consent3,consent,,0,1,FALSE,Appendix Q1 consent box,fixed,
+consent4,consent,,0,1,FALSE,Appendix Q1 consent box,fixed,
+consent5,consent,,0,1,FALSE,Appendix Q1 consent box,fixed,
+BG_gender,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+BG_age,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+BG_level,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+BG_college,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+BG_phone,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+BG_kmail,background,,1,9,FALSE,Researcher-written; bands must match the public data,CHECK bands against public codebook,
+SM1,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM1
+SM2,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM2
+SM3,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM3
+SM4,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM4
+SM5,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM5
+SM6,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM6
+SM7,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM7
+SM8,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM8
+SM9,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM9
+SM10,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM10
+SM11,shared23,SocialMedia,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SM11
+ATT1,attention,,1,5,FALSE,Researcher-written attention check,CHECK key in settings.R,
+SD1,shared23,Disengagement,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SD1
+SD2,shared23,Disengagement,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SD2
+SD3,shared23,Disengagement,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SD3
+SD4,shared23,Disengagement,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",SD4
+RP1,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP1
+RP2,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP2
+RP3,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP3
+RP4,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP4
+RP5,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP5
+RP6,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP6
+RP7,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP7
+RP8,shared23,RiskyPractice,1,5,FALSE,Appau et al. (2026) codebook,"CHECK wording, format and direction in public codebook",RP8
+NU1,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+NU2,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+NU3,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+NU4,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PU1,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PU2,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PU3,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PU4,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PR1,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PR2,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PR3,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PR4,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PE1,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PE2,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PE3,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+PE4,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+SS1,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+SS2,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+SS3,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+SS4,supps,Impulsivity,1,4,TRUE,"Cyders et al. (2014), short UPPS-P",REHEARSAL KEY: replace item order and reverse flags from the corrected key at impulsivity.org,
+ATT2,attention,,1,4,FALSE,Researcher-written attention check,CHECK key in settings.R,
+EM01,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM02,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM03,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM04,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM05,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM06,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM07,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM08,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM09,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM10,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM11,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM12,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM13,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM14,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM15,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+EM16,email,Judgment,1,6,FALSE,"Researcher-built email, checked by the expert panel",answer key in 02_instrument/email_answer_key.csv,
+start_time,meta,,0,0,FALSE,Survey platform,fixed,
+end_time,meta,,0,0,FALSE,Survey platform,fixed,

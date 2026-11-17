@@ -1,0 +1,73 @@
+order,section,code,wording,response_type,labels,required,attention_key,critical
+1,Consent,consent1,I am a KNUST undergraduate student and I am 18 years or older.,tick box,Yes,yes,,consent: survey ends if unticked
+2,Consent,consent2,I have read the information above and I understand what the survey involves.,tick box,Yes,yes,,consent: survey ends if unticked
+3,Consent,consent3,I understand that taking part is voluntary and that I may stop at any time without giving a reason.,tick box,Yes,yes,,consent: survey ends if unticked
+4,Consent,consent4,I understand that my answers are anonymous and will be reported only in summary form.,tick box,Yes,yes,,consent: survey ends if unticked
+5,Consent,consent5,I agree to take part in this survey.,tick box,Yes,yes,,consent: survey ends if unticked
+6,A,BG_gender,Gender,single choice,"1 Female, 2 Male, 3 Prefer not to say",yes,,
+7,A,BG_age,Age,single choice,CHECK: bands as in the open dataset,yes,,must match comparison data
+8,A,BG_level,Level,single choice,"1 = 100, 2 = 200, 3 = 300, 4 = 400",yes,,
+9,A,BG_college,College,single choice,"CHECK: six KNUST colleges, official names",yes,,quota variable
+10,A,BG_phone,Device you use most for email,single choice,"1 Smartphone, 2 Laptop or desktop",yes,,
+11,A,BG_kmail,Do you use your KNUST student email?,yes/no,"1 Yes, 2 No",yes,,
+12,B,EM01,CHECK: email image EM01 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+13,B,EM02,CHECK: email image EM02 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+14,B,EM03,CHECK: email image EM03 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+15,B,EM04,CHECK: email image EM04 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+16,B,EM05,CHECK: email image EM05 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+17,B,EM06,CHECK: email image EM06 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+18,B,EM07,CHECK: email image EM07 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+19,B,EM08,CHECK: email image EM08 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+20,B,EM09,CHECK: email image EM09 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+21,B,EM10,CHECK: email image EM10 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+22,B,EM11,CHECK: email image EM11 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+23,B,EM12,CHECK: email image EM12 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+24,B,EM13,CHECK: email image EM13 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+25,B,EM14,CHECK: email image EM14 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+26,B,EM15,CHECK: email image EM15 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+27,B,EM16,CHECK: email image EM16 approved by the panel (randomise order),rating 1-6,"1 Definitely safe, 2 Probably safe, 3 Possibly safe, 4 Possibly phishing, 5 Probably phishing, 6 Definitely phishing",yes,,answer key in email_answer_key.csv
+28,C,SM1,CHECK: item SM1 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+29,C,SM2,CHECK: item SM2 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+30,C,SM3,CHECK: item SM3 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+31,C,SM4,CHECK: item SM4 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+32,C,SM5,CHECK: item SM5 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+33,C,SM6,CHECK: item SM6 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+34,C,ATT1,"To show you are reading carefully, please choose 2 for this statement.",rating 1-5,as Section C,yes,2,attention check
+35,C,SM7,CHECK: item SM7 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+36,C,SM8,CHECK: item SM8 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+37,C,SM9,CHECK: item SM9 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+38,C,SM10,CHECK: item SM10 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+39,C,SM11,CHECK: item SM11 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+40,D,SD1,CHECK: item SD1 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+41,D,SD2,CHECK: item SD2 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+42,D,SD3,CHECK: item SD3 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+43,D,SD4,CHECK: item SD4 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+44,E,RP1,CHECK: item RP1 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+45,E,RP2,CHECK: item RP2 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+46,E,RP3,CHECK: item RP3 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+47,E,RP4,CHECK: item RP4 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+48,E,RP5,CHECK: item RP5 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+49,E,RP6,CHECK: item RP6 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+50,E,RP7,CHECK: item RP7 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+51,E,RP8,CHECK: item RP8 word for word from the open dataset codebook,rating 1-5,CHECK: anchors from the open codebook,yes,,must match open data word for word
+52,F,S01,"CHECK: short UPPS-P item 1 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+53,F,S02,"CHECK: short UPPS-P item 2 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+54,F,S03,"CHECK: short UPPS-P item 3 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+55,F,S04,"CHECK: short UPPS-P item 4 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+56,F,S05,"CHECK: short UPPS-P item 5 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+57,F,S06,"CHECK: short UPPS-P item 6 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+58,F,S07,"CHECK: short UPPS-P item 7 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+59,F,S08,"CHECK: short UPPS-P item 8 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+60,F,S09,"CHECK: short UPPS-P item 9 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+61,F,S10,"CHECK: short UPPS-P item 10 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+62,F,S11,"CHECK: short UPPS-P item 11 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+63,F,S12,"CHECK: short UPPS-P item 12 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+64,F,ATT2,"Please choose ""Disagree strongly"" for this statement.",rating 1-4,as Section F,yes,4,attention check
+65,F,S13,"CHECK: short UPPS-P item 13 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+66,F,S14,"CHECK: short UPPS-P item 14 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+67,F,S15,"CHECK: short UPPS-P item 15 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+68,F,S16,"CHECK: short UPPS-P item 16 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+69,F,S17,"CHECK: short UPPS-P item 17 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+70,F,S18,"CHECK: short UPPS-P item 18 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+71,F,S19,"CHECK: short UPPS-P item 19 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
+72,F,S20,"CHECK: short UPPS-P item 20 word for word (published order, permission first)",rating 1-4,"1 Agree strongly, 2 Agree some, 3 Disagree some, 4 Disagree strongly",yes,,rename to codebook code (NU/PU/PR/PE/SS) and set reverse flag from the corrected key
